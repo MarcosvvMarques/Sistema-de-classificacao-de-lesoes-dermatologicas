@@ -1,2 +1,12 @@
 venv/
 .env
+data/
+checkpoints/
+outputs/
+runs/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+.DS_Store
+especificaçoes/
