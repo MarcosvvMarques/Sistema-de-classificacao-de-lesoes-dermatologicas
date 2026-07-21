@@ -1,2 +1,11 @@
 venv/
+.venv/
 .env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+artifacts/
+models/
+reports/
+data/*
+!data/.gitkeep
